@@ -76,3 +76,9 @@ eechoo/
 ## 修改 skill
 
 两份 skill 的 `assets/`（卡片模板、档案模板）和 `scripts/extract_pdf_text.swift` 内容完全相同。修改其中一份时，记得同步改另一份。
+
+## 许可证
+
+本项目采用 [MIT 许可证](LICENSE)。
+
+示例卡片中引用的论文原文（Zhang et al., 2022, *JAMA Network Open*）版权归原作者所有，按 CC-BY 许可引用。

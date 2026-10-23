@@ -76,3 +76,9 @@ eechoo/
 ## Modifying the skill
 
 The two skill copies have identical `assets/` (card and profile templates) and `scripts/extract_pdf_text.swift`. When you change one, update the other as well.
+
+## License
+
+This project is released under the [MIT License](LICENSE).
+
+The quotes in the example card come from Zhang et al., 2022, *JAMA Network Open*. Copyright remains with the original authors; they are quoted under the paper's CC-BY license.
